@@ -1,0 +1,9 @@
+.service{
+    background-color: rgb(243, 225, 225);
+    border-radius: 20px;
+
+}
+
+.service:hover{
+    background-color: gray;
+}

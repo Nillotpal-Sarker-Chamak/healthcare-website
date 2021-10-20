@@ -1,0 +1,38 @@
+[
+    {
+        "name": "All Types of Treatment By Specialised Doctors",
+        "id": "1",
+        "description": "Here you can get any type of treatment. From surgery to small treatments we provide you all with reasonable cost",
+        "image": "https://www.vennershipley.co.uk/wp-content/uploads/2019/01/shutterstock_551914228-2.jpg"
+    },
+    {
+        "name": "24 Hour Ambulance Service",
+        "id": "2",
+        "description": "We can provide you with ambulance throughout day and night.The ambulance is completely free of cost.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8-2D0qYowemzfnVB0Rvxk7MxqXjUWtrMqQw&usqp=CAU"
+    },
+    {
+        "name": "Emergency Care",
+        "id": "3",
+        "description": "We have emergency unit in which our doctors are always ready for emergency cases.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQ-OwboJBhw57825StutiD4lEXDMjIFcJdg&usqp=CAU"
+    },
+    {
+        "name": "Chmeotherapy",
+        "id": "4",
+        "description": "We provide Chemotherapy to cancer patients at reasonable cost.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREhKIfULnVeAzLPbGLpgODCppcC0ZUa2NBPA&usqp=CAU"
+    },
+    {
+        "name": "Morgue Service",
+        "id": "5",
+        "description": "We have morgue to freeze dead bodies at low cost",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkBFvj9FogqkWvwIoctLiNyaHyacwm7zSJHg&usqp=CAU"
+    },
+    {
+        "name": "Home treatment and Oxygen Supply to Patients in Home",
+        "id": "6",
+        "description": "We also supply oxygen to home and also provide patients with treatments in home in case of such emergency that it is not possible for the patient to come outside. If it is possible for the patient to come outside home please don't use this service",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8jEI-FZGXV3bJ4QGRvgLb_4XoFsOxT0Gr-A&usqp=CAU"
+    }
+]
